@@ -1,0 +1,34 @@
+[
+    {
+        "name": "com.vladsch.flexmark.util.sequence.LineAppendable",
+        "allDeclaredFields": true,
+        "allDeclaredClasses": true,
+        "queryAllDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.vladsch.flexmark.util.sequence.LineAppendable$Options",
+        "allDeclaredFields": true,
+        "allDeclaredClasses": true,
+        "queryAllDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.kohlschutter.jockel.core.HtmlJspServlet",
+        "allDeclaredFields": true,
+        "allDeclaredClasses": true,
+        "queryAllDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredConstructors": true
+    },
+    {
+        "name": "com.kohlschutter.jockel.core.MarkdownServlet",
+        "allDeclaredFields": true,
+        "allDeclaredClasses": true,
+        "queryAllDeclaredMethods": true,
+        "allPublicMethods": true,
+        "allDeclaredConstructors": true
+    }
+]
