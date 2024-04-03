@@ -7,7 +7,7 @@
     <parent>
         <groupId>com.kohlschutter</groupId>
         <artifactId>kohlschutter-parent</artifactId>
-        <version>1.7.0-SNAPSHOT</version>
+        <version>1.7.0</version>
         <relativePath>../kohlschutter-parent/pom.xml</relativePath>
     </parent>
 
@@ -18,6 +18,11 @@
 
     <properties>
         <kohlschutter.java.release>11</kohlschutter.java.release>
+
+        <dumbo.version>1.1.0-SNAPSHOT</dumbo.version>
+        <junixsocket.version>2.9.1-SNAPSHOT</junixsocket.version>
+        <efesnitch.version>1.0.1-SNAPSHOT</efesnitch.version>
+        <stringhold.version>1.0.3-SNAPSHOT</stringhold.version>
     </properties>
 
     <licenses>
