@@ -44,6 +44,7 @@ public class JockelIncludeTag extends Tag {
 
   @Override
   public Object render(TemplateContext context, LNode... nodes) {
+    @SuppressWarnings("resource")
     ServerApp app = (ServerApp) Objects.requireNonNull(context.getEnvironmentMap().get(
         LiquidHelper.ENVIRONMENT_KEY_DUMBO_APP));
 
